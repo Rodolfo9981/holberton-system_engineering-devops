@@ -1,0 +1,1 @@
+Learning how to run basic bash script.
